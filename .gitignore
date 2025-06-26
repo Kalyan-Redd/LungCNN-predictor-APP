@@ -1,0 +1,9 @@
+# Ignore large model & dataset files
+LungCancerPrediction.h5
+lung-cancer-dataset/
+*.zip
+
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+venv/
